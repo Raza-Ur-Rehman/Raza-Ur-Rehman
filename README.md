@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raza ur Rehman</h1>
 <h3 align="center">I'm Frontend developer from Pakistan</h3>
-<img align="right" src="![alt text](image.png)">
+<img align="right" src="![alt text](image.png) alt="gif" width="200" height="200">
 - 🌱 I’m currently learning **ES6**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raza-Ur-Rehman](https://github.com/Raza-Ur-Rehman)
