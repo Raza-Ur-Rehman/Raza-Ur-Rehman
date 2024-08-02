@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 📫 How to reach me **linkedin.com/in/m-raza-ur-rehman-39930b30a**
+- 📫 How to reach me **https://linkedin.com/in/m-raza-ur-rehman-39930b30a**
 
 - 💬 Ask me about **JavaScript,ReactJs,Typescript, NextJs**
 
