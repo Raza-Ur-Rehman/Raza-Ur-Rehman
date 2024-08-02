@@ -2,7 +2,7 @@
 <h3 align="center">I'm Frontend developer from Pakistan</h3>
 <img align="right" src="image.png"gif" width="300" height="300">
 
-- 🌱 I’m currently learning **javaScript & Firebase**
+- 🌱 I’m currently learning **JavaScript & Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raza-Ur-Rehman](https://github.com/Raza-Ur-Rehman)
 
@@ -10,9 +10,9 @@
 
 - 📫 How to reach me **linkedin.com/in/m-raza-ur-rehman-39930b30a**
 
-- - 💬 Ask me about **JavaScript,ReactJs,Typescript, NextJs**
+- 💬 Ask me about **JavaScript,ReactJs,Typescript, NextJs**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
