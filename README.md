@@ -2,7 +2,7 @@
 <h3 align="center">I'm Frontend developer from Pakistan</h3>
 <img align="right" src="image.png"gif" width="300" height="300">
 
-- 🌱 I’m currently learning **JavaScript & Firebase**
+- 🌱 I’m currently learning **React Js & Next Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raza-Ur-Rehman](https://github.com/Raza-Ur-Rehman)
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript,ReactJs,Typescript, NextJs**
 
-- ⚡ Fun fact **JavaScript**
+- ⚡ Fun fact **Creative Thinking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
