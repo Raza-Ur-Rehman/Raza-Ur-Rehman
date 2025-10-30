@@ -2,7 +2,7 @@
 <h3 align="center">I'm MERN Stack Developer from Pakistan</h3>
 <img align="right" src="image.png"gif" width="300" height="300">
 
-- 🌱 I’m currently learning **GSAP Animation**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raza-Ur-Rehman](https://github.com/Raza-Ur-Rehman)
 
